@@ -1,28 +1,35 @@
-👋 About Me<br><br>
-I’m a Computer Science student at IIITDM Chennai (Dual Degree: B.Tech + M.Tech) who enjoys building solid software systems and experimenting with ML/LLM-based features.<br><br>
+👋 **About Me**<br><br>
 
-I like working where engineering meets reasoning — designing backend services, debugging performance issues, building compilers and ML pipelines, and making AI systems a little more reliable than they were yesterday.<br><br>
+I’m a Computer Science student at **IIITDM Chennai** (Dual Degree: B.Tech + M.Tech) who enjoys building **reliable software systems** and experimenting with **ML / LLM-based features**.<br><br>
 
-I’ve worked on production-grade systems (cloud services, microservices, distributed processing) and research-leaning projects (LLMs, uncertainty handling, active retrieval), and I enjoy switching between writing code and asking why it behaves the way it does.<br><br>
+I like working where **engineering meets reasoning** — backend services, performance debugging, compilers, ML pipelines, and making systems a little more robust than they were yesterday.<br><br>
 
-Currently exploring backend & ML systems, scalable infrastructure, and applied AI research, and open to SDE and research internship opportunities.<br><br>
+I’ve worked on **production-grade systems** (cloud services, microservices, distributed processing) and **research-leaning projects** (LLMs, uncertainty handling, active retrieval). I enjoy switching between writing code and understanding *why it behaves the way it does*.<br><br>
 
-🧠 Research Interests & Work<br><br>
-I’m particularly interested in improving the reliability of language models, including hallucination detection, uncertainty-aware inference, and active retrieval strategies. I enjoy exploring white-box signals inside models and using them to design more adaptive and grounded AI systems.<br><br>
+---
 
-🛠️ What I enjoy working on<br><br>
-Backend & distributed systems<br>
-ML systems and LLM-powered applications<br>
-Performance debugging and optimization<br>
-Compilers, OS internals, and low-level tooling<br>
-Taking projects from idea → prototype → production<br><br>
+🧠 **Research Interests**<br><br>
+• Reliable and grounded LLMs<br>
+• Hallucination detection & uncertainty-aware inference<br>
+• Active RAG and adaptive reasoning<br><br>
 
-📫 Let’s connect<br><br>
+---
+
+🛠️ **What I Like Working On**<br><br>
+• Backend & distributed systems<br>
+• ML systems and LLM-powered applications<br>
+• Performance debugging & optimization<br>
+• Compilers, OS internals, low-level tooling<br><br>
+
+---
+
+📫 **Connect**<br><br>
 GitHub: https://github.com/TMR2005<br>
 LinkedIn: https://www.linkedin.com/in/praveen-tmr<br><br>
 
-⚡ Fun fact<br><br>
+⚡ **Fun fact**<br><br>
 I like problems where the bug isn’t obvious — until it suddenly is 😄
+
 
 
 
