@@ -1,5 +1,29 @@
-# 💫 About Me:
-🎯 I’m currently working on<br><br>Building scalable software systems and experimenting with ML/LLM-based features, with a focus on reliability and performance<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects in backend engineering, ML systems, or applied AI research<br><br>🤝 I’m looking for help with<br><br>Designing better systems, evaluating ML ideas in practice, and writing clean, maintainable code<br><br>🌱 I’m currently learning<br><br>Distributed systems, ML systems engineering, and applied research techniques for reliable AI<br><br>💬 Ask me about<br><br>Python, Java, Linux, system design, LLMs, debugging, or taking ideas from prototype to production<br><br>⚡ Fun fact<br><br>I enjoy both writing code and figuring out why it breaks 😄
+👋 About Me<br><br>
+I’m a Computer Science student at IIITDM Chennai (Dual Degree: B.Tech + M.Tech) who enjoys building solid software systems and experimenting with ML/LLM-based features.<br><br>
+
+I like working where engineering meets reasoning — designing backend services, debugging performance issues, building compilers and ML pipelines, and making AI systems a little more reliable than they were yesterday.<br><br>
+
+I’ve worked on production-grade systems (cloud services, microservices, distributed processing) and research-leaning projects (LLMs, uncertainty handling, active retrieval), and I enjoy switching between writing code and asking why it behaves the way it does.<br><br>
+
+Currently exploring backend & ML systems, scalable infrastructure, and applied AI research, and open to SDE and research internship opportunities.<br><br>
+
+🧠 Research Interests & Work<br><br>
+I’m particularly interested in improving the reliability of language models, including hallucination detection, uncertainty-aware inference, and active retrieval strategies. I enjoy exploring white-box signals inside models and using them to design more adaptive and grounded AI systems.<br><br>
+
+🛠️ What I enjoy working on<br><br>
+Backend & distributed systems<br>
+ML systems and LLM-powered applications<br>
+Performance debugging and optimization<br>
+Compilers, OS internals, and low-level tooling<br>
+Taking projects from idea → prototype → production<br><br>
+
+📫 Let’s connect<br><br>
+GitHub: https://github.com/TMR2005<br>
+LinkedIn: https://www.linkedin.com/in/praveen-tmr<br><br>
+
+⚡ Fun fact<br><br>
+I like problems where the bug isn’t obvious — until it suddenly is 😄
+
 
 
 ## 🌐 Socials:
