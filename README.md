@@ -118,23 +118,6 @@ learning_queue = {
 
 ---
 
-## 🏆 Achievements
-
-- **Codeforces Specialist** with a maximum rating of **1514**
-- **400+** algorithmic problems solved across Codeforces, LeetCode, and AtCoder
-- Qualified **JEE Advanced**, admitted to IIITDM Chennai
-
----
-
-## 🎓 Education
-
-**B.Tech + M.Tech (Dual Degree) in Computer Science**  
-*Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram*
-
-Focus Areas: Backend Systems · Distributed Computing · ML Systems · Compiler Design
-
----
-
 ## 📫 Let's Connect
 
 I'm always interested in discussing:
