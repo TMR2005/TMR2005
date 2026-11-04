@@ -1,111 +1,98 @@
 <div align="center">
 
-# 👋 Hey, I'm Praveen Kumar TMR
+# Hi, I'm Praveen 👋
 
-### Backend Engineer | Systems Architect | Performance Optimizer
+### Systems & Backend Engineer · Performance Nerd · Compiler Tinkerer
 
-*I debug systems that break under pressure and build things that scale*
+*I build systems that scale, and I dig into why they break when they do.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-tmr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmrpraveen2005@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1514-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
 
 </div>
 
 ---
 
-## 🎯 What I Do
+## 🎯 About Me
 
-I'm a **B.Tech + M.Tech CS student at IIITDM Chennai** who gets excited when systems fail in interesting ways. My work sits at the intersection of **backend infrastructure, distributed systems, and ML reliability**.
+B.Tech + M.Tech (Dual Degree) in Computer Science at **IIITDM Chennai** (2028).
+I care about the stuff that lives under the abstraction: memory layout, cache behavior, concurrency, and what happens when a queue fills up at 3 AM.
 
-**I don't just build systems — I understand why they break.**
-
-```yaml
-current_focus:
-  - Memory management in distributed query engines (AsterixDB/Hyracks)
-  - Dynamic resource allocation under contention
-  - Trade-offs between latency, throughput, and fairness
-
-philosophy: |
-  Give me a problem where:
-    ✓ The bottleneck isn't obvious
-    ✓ The system fails under pressure  
-    ✓ The fix requires understanding internals, not just APIs
-```
+**Currently chasing:**
+- 🧠 Memory management and scheduling in distributed query engines
+- ⚡ Lock-free data structures and high-throughput systems
+- 🔍 Making AI systems more reliable: hallucination detection, grounded RAG, uncertainty-aware inference
 
 ---
 
-## 🔬 Research & Exploration
+## 🛠️ Stack
 
-I'm particularly interested in making AI systems more **reliable and truthful**:
-
-- 🎯 **Hallucination detection** and uncertainty-aware inference
-- 🔍 **Active retrieval (RAG)** and adaptive reasoning mechanisms  
-- ⚡ **Runtime resource management** in large-scale distributed systems
-- 🧠 Building **grounded LLM systems** that know what they don't know
-
----
-
-## 🛠️ Tech Arsenal
-
-<details>
-<summary><b>Click to expand my tech stack</b></summary>
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Backend & Systems
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-</details>
+| Domain | Tools |
+|---|---|
+| **Systems** | C++17, C, Linux internals (`/proc`, `/sys`), concurrency, memory pools |
+| **Backend** | FastAPI, Node.js, REST APIs, Redis, Celery, PostgreSQL |
+| **Cloud & DevOps** | AWS EC2, Azure Functions, Azure Service Bus, Docker, Hostinger VPS |
+| **Compilers & HDL** | Flex/Bison, TAC IR, MIPS codegen, SystemVerilog |
+| **ML** | PyTorch, TensorFlow, scikit-learn, OpenCV |
+| **Languages** | Python, TypeScript, JavaScript, Java, SystemVerilog |
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Work
 
-### 🤖 [AI-Augmented Smart Compiler](https://github.com/TMR2005/AI-Augumented-Smart-Compiler)
-A MiniC compiler with **LLM-assisted IR code generation** — experimenting with AI in compiler design
-> `C` · Compiler Design · LLM Integration
+### ⚡ [Low-Latency Limit Order Book](https://github.com/TMR2005/Limit-Order-Book)
+Price-time priority matching engine in C++17.
+- ~**9.8M orders/sec** (~101 ns/op) on synthetic benchmarks
+- Preallocated memory pools, arena allocation, and array-indexed price levels
+- ~30% faster than a `std::map` design thanks to better cache locality
+- Atomic operations with explicit memory ordering for concurrent book updates
 
-### 💬 [GaneshaChatBot](https://github.com/TMR2005/GaneshaChatBot)
-Intelligent chatbot system built with modern NLP techniques
-> `TypeScript` · NLP · Conversational AI
+### 🧪 [Elekki: Online Verilog Judge](https://github.com/TMR2005)
+Async HDL compile-and-simulate platform.
+- FastAPI API, Redis/Celery job queues, isolated Docker workers for untrusted code
+- **23.18 jobs/sec** on 4 workers, **100% job resolution** under 100–1,000 concurrent submissions
+- Deployed on AWS EC2 with a status-polling API
 
-### 📈 [Limit Order Book](https://github.com/TMR2005/Limit-Order-Book)
-High-performance trading system simulator with order matching engine
-> `C++` · Financial Systems · Performance Optimization
+### 📡 [MLinux: GPU & System Telemetry](https://github.com/TMR2005)
+Telemetry daemon for ML workloads.
+- Reads GPU, CPU, memory, and I/O metrics straight from `/proc` and `/sys` at **< 2% CPU overhead**
+- Correlates resource usage with training throughput to find bottlenecks
+- Real-time TUI dashboard and structured logging
 
-### 🎥 [LAN Conference Application](https://github.com/TMR2005/LAN-Based-Conference-Application-for-Windows)
-Real-time conferencing system for Windows with low-latency networking
-> `Python` · Networking · Real-time Systems
+### 🧩 [AI-Augmented Smart Compiler](https://github.com/TMR2005/AI-Augumented-Smart-Compiler)
+MiniC compiler from lexing through MIPS codegen.
+- Liveness-based register-pressure analysis on three-address code
+- LLM-assisted TAC rewriting in the compilation pipeline
 
-### 🤝 [CollaborativeCoder](https://github.com/TMR2005/CollaborativeCoder)
-Real-time collaborative coding platform
-> `TypeScript` · WebSockets · Collaborative Tools
+### 🩻 [Multimodal Brain Tumor Segmentation](https://github.com/TMR2005/Multimodal-Fusion-for-Medical-Image-Segmentation)
+- MRI fused with radiology text via a Vision-Language Model (FiLM)
+- **0.87 Dice**, **0.79 IoU**
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Experience
+
+**Software Engineering Intern · IIITDM Chennai** *(May – Aug 2026)*
+- Built a React Native + Node.js + TypeScript platform used by **2,500+ students** across 4 hostel blocks
+- Cut cached API P95 latency from **50 ms to 1–5 ms** with Redis, PostgreSQL indexing, and connection pooling
+- Ran it on a VPS with monitoring: **99%+ uptime**, sub-100 ms responses under peak load
+
+**Product Engineering Intern · LiquidMind.AI** *(Jun – Jul 2025)*
+- Led a team of 3 in rebuilding a monolithic document pipeline into event-driven microservices on Azure
+- Raised throughput **12–16×** and cut end-to-end latency by **~90%** via batching and parallel execution
+- Added idempotent workflows, dead-letter queues, and retry logic for fault tolerance
+
+---
+
+## 🏆 Competitive Programming
+
+- **Codeforces Specialist**, max rating **1514**
+- **400+** problems solved across Codeforces, LeetCode, and AtCoder
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TMR2005&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -118,47 +105,10 @@ Real-time collaborative coding platform
 
 ---
 
-## 💭 Current Learning Path
+## 📫 Let's Talk
 
-```python
-learning_queue = {
-    "deep_dive": [
-        "Memory allocation strategies in distributed query engines",
-        "Lock-free data structures for high-throughput systems",
-        "Raft consensus and distributed coordination"
-    ],
-    "exploring": [
-        "Hallucination detection in LLM outputs",
-        "LLVM optimization passes",
-        "Cache-oblivious algorithms"
-    ],
-    "side_quests": [
-        "Rust for systems programming",
-        "eBPF for performance monitoring"
-    ]
-}
-```
+I'm happy to chat about systems war stories, performance debugging, compilers, or reliable AI systems.
 
----
-
-## 🎓 Education
-
-**B.Tech + M.Tech (Dual Degree) in Computer Science**  
-*Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram*
-
-Focus Areas: Backend Systems · Distributed Computing · ML Systems · Compiler Design
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in discussing:
-- 🔧 Systems engineering challenges and war stories
-- 🧠 Making AI systems more reliable and grounded
-- ⚡ Performance optimization and debugging techniques
-- 🤝 Collaboration on interesting open-source projects
-
-**Reach out:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/praveen-tmr)
 - 📧 [Email](mailto:tmrpraveen2005@gmail.com)
 - 💻 [GitHub](https://github.com/TMR2005)
@@ -166,9 +116,6 @@ I'm always interested in discussing:
 ---
 
 <div align="center">
-
-### "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
-*— Martin Fowler*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TMR2005&color=blueviolet&style=flat-square&label=Profile+Views)
 
